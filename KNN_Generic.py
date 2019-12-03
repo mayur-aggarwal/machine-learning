@@ -1,7 +1,7 @@
 """
 Created on Thu Sep 13 11:02:02 2018
 
-@author: mayur.a
+@author: mayur.a [Mayur Aggarwal]
 """
 
 import math
