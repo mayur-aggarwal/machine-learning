@@ -1,6 +1,6 @@
 # machine-learning
 ## Getting Started with Machine Learning Algos
-_Implementation from scratch_
+## *_Implementation from scratch_*
 
 This repository contains basic ML algos implementation from scratch, no lib is used like sklearn or tf.
 Following ML algos has been implemented.
